@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\vbb-backend"
+		},
+		{
+			"path": "..\\..\\bootcamp\\todolist-v2"
+		},
+		{
+			"path": "..\\..\\bootcamp\\Wiki-API"
+		}
+	],
+	"settings": {}
+}
